@@ -7,6 +7,6 @@
 
 
 
-In this project, we present an in-depth replication of the Text2Mol model, aiming to reproduce and analyze its core components, performance benchmarks, and design choices. Our goal is not only to validate the original findings but also to gain deeper insights into the architecture's strengths and limitations in supporting cross-modal molecular retrieval.
+In this project, we present an in-depth replication of the [Text2Mol model](https://aclanthology.org/2021.emnlp-main.47/), aiming to reproduce and analyze its core components, performance benchmarks, and design choices. Our goal is not only to validate the original findings but also to gain deeper insights into the architecture's strengths and limitations in supporting cross-modal molecular retrieval.
 
 
